@@ -1,4 +1,8 @@
-# TETRA Multiframe SDS decoder
+# This repository is now obsolete, it's functions are now built-in in [TETRA Listener](https://github.com/itds-consulting/tetra-listener)
+
+####
+
+## TETRA Multiframe SDS decoder
 
 This solution provides patches against [TETRA Listener](https://github.com/itds-consulting/tetra-listener) and scripts to correctly decode and assemble multi-frame SDS
 
